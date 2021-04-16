@@ -2,7 +2,7 @@
 
 ### 📫 Contact:
 
-Discord: Dominik.#2023
+Discord: Dominik.#6974
 
 #### ⚒ So far I've used:
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
