@@ -15,3 +15,8 @@
 
 #### 💻 My Public Projects:
 - [Nothing](https://github.com/domczak216/)
+
+### 📈 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=domczak216&show_icons=true&theme=tokyonight" />
+</div>
