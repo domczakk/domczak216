@@ -1,7 +1,7 @@
 ### Hi, im Dominik.! 🦇
 
 ### 📫 Contact:
-[<img src="https://img.shields.io/badge/Dominik.%236974-%237289DA.svg?&logo=discord&logoColor=white" />](https://discord.com/)
+[<img src="https://img.shields.io/badge/Dominik.%23#0001-%237289DA.svg?&logo=discord&logoColor=white" />](https://discord.com/)
 
 #### ⚒ So far I've used:
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
