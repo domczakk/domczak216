@@ -14,7 +14,7 @@
 
 
 #### 💻 My Public Projects:
-- [mc2night.eu](https://mc2night.eu/)
+- [Nothing](https://github.com/domczak216/)
 
 ### 📈 GitHub Stats:
 <div align="center">
