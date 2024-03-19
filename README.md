@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dominik 👋</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=polarnyy&label=Profile%20views&color=0e75b6&style=flat" alt="polarnyy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=domczakk&label=Profile%20views&color=0e75b6&style=flat" alt="domczakk" /> </p>
 
 <img align="center" alt="Coding" width="1400" hight="auto" src="https://i.imgur.com/e4PXAvY.png"></img>
 
