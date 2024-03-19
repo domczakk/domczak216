@@ -24,5 +24,5 @@
 <h2 align="center">📈 Statistics 📈</h2>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=polarnyy&theme=dark&show_icons=true&locale=en" alt="polarnyy" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polarnyy&theme=dark" alt="polarnyy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=domczakk&theme=dark&show_icons=true&locale=en" alt="domczakk" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=domczakk&theme=dark" alt="domczakk" /></p>
