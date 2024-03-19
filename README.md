@@ -1,22 +1,28 @@
-### Hi, im Dominik.! 🦇
+<h1 align="center">Hi, I'm Dominik 👋</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=polarnyy&label=Profile%20views&color=0e75b6&style=flat" alt="polarnyy" /> </p>
 
-### 📫 Contact:
-[<img src="https://img.shields.io/badge/Dominik.%239901-%237289DA.svg?&logo=discord&logoColor=white" />](https://discord.com/)
-
-#### ⚒ So far I've used:
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![Nginx](https://img.shields.io/badge/-Nginx-009136?style=flat&logo=nginx&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-e6322d?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) 
+<img align="center" alt="Coding" width="1400" hight="auto" src="https://i.imgur.com/e4PXAvY.png"></img>
 
 
-#### 💻 My Public Projects:
-- [Nothing](https://github.com/domczak216/)
+<h2 align="center">🔗 Social Media 🔗</h2>
 
-### 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domczak216&show_icons=true&theme=tokyonight" />
-</div>
+<p dir="auto" align="center"><b>Discord</b> <code>domczak.</code></p>
+
+<p align="center">
+<a href="https://dc.xocode.pl" target="blank"><img align="center" src="https://i.imgur.com/7WZVvRx.png" alt="domczak." height="50" width=auto /></a>
+</p>
+
+<h2 align="center">💻 My Public Projects: 💻</h2>
+
+- [treningpvp.pl](https://treningpvp.pl/)
+- [galaxyplay.pl](https://galaxyplay.pl/)
+
+
+<h2 align="center">👨‍💻 Languages and Tools 👨‍💻</h2>
+<p align="center"> <img src="https://i.imgur.com/CIsm2RN.png" alt="java" width="auto" height="50"/></p>
+
+<h2 align="center">📈 Statistics 📈</h2>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=polarnyy&theme=dark&show_icons=true&locale=en" alt="polarnyy" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polarnyy&theme=dark" alt="polarnyy" /></p>
