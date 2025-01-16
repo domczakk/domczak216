@@ -15,7 +15,7 @@
 <h2 align="center">💻 My Public Projects: 💻</h2>
 
 - [treningpvp.pl](https://treningpvp.pl/)
-- [galaxyplay.pl](https://galaxyplay.pl/)
+- [galaxyspeak.pl](https://galaxyspeak.pl/)
 
 
 <h2 align="center">👨‍💻 Languages and Tools 👨‍💻</h2>
